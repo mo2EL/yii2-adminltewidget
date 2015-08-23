@@ -1,0 +1,21 @@
+{
+    "name": "leopripos/yii2-adminltewidget",
+    "description": "The extenstion contains addition widget for dmstr/yii2-adminlte-asset",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","adminltewidget","yii2-adminltewidget"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Leo Pripos Marbun",
+            "email": "leopripos@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "\\leopripos\\adminltewidget\\": ""
+        }
+    }
+}
